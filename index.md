@@ -1,5 +1,5 @@
 ---
-title: EGR 314 Project Name (TBA)
+EGR 314 Project Name (TBA)
 ---
 
 # EGR 314
