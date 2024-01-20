@@ -9,3 +9,4 @@ Project Name (TBA)
 # Ethan Young
 # Moksh Goel
 # Andrew Headley
+# Nathan Vairora
