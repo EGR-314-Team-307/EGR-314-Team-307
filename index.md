@@ -10,4 +10,4 @@ title: Project Name (TBA)
 
 ## Assignment Links
 
-[example link to idealab](https://idealab.asu.edu)
+[Assignments](/Assignments)
