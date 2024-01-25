@@ -8,6 +8,4 @@ title: Project Name (TBA)
 # Team Members
 ## Ethan Young, Moksh Goel, Andrew Headley, Nathan Vairora
 
-## Assignment Links
-
-[Assignments](/Assignments)
+[Assignments](/Assignments.md)
