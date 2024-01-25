@@ -6,7 +6,4 @@ title: Project Name (TBA)
 # Spring 2024
 
 # Team Members
-## Ethan Young
-## Moksh Goel
-## Andrew Headley
-## Nathan Vairora
+## Ethan Young, Moksh Goel, Andrew Headley, Nathan Vairora
