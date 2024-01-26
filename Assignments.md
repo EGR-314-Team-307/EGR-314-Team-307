@@ -5,4 +5,6 @@ title: Assignments
 
 [02 - User Needs, Benchmarking, and Requirements](/User%20Needs,%20Benchmarking,%20and%20Requirements/NeedsBenchmarkingRequirements.md)
 
+[Design Ideation](/Design%20Ideation/DesignIdeation.md)
+
 [Checkpoint 1](/Checkpoint1)
