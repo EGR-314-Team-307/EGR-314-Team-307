@@ -1,4 +1,4 @@
 ---
 title: Assignments
 ---
-[Checkpoint 1](/Checkpoint1.md)
+[Checkpoint 1](/Checkpoint1)
