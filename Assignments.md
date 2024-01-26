@@ -7,4 +7,4 @@ title: Assignments
 
 [03 - Design Ideation](/Design%20Ideation/DesignIdeation.md)
 
-[Project Checkpoint 1](/Checkpoint1)
+[Project Checkpoint 1](/Checkpoint1.md)
