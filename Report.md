@@ -68,5 +68,12 @@ When possible, class time will be used as the primary weekly meetings. Subsequen
 - Tuesday - 1pm-6pm
 - Wednesday - 2pm-5pm
 - Thursday - 2pm-6pm
+## Meeting Coordination
+- We will discuss during class whether or not we need to meet in person or through Discord for the week. 
+- If we need to edit the meeting hours, we will reference the meeting schedule highlighted above and make necessary adjustments.
+- The preferred format of meetings is virtual, but when necessary, we will meet in the Peralta lab in person.
+
+
+
 
 
