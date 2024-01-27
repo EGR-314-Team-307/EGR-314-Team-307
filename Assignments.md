@@ -7,4 +7,4 @@ title: Assignments
 
 [03 - Design Ideation](/Design%20Ideation/DesignIdeation.md)
 
-[Project Checkpoint 1](/Checkpoint1.md)
+[Project Checkpoint 1](/https://github.com/EGR-314-Team-307/EGR-314-Team-307/blob/main/Report%20Test.md)
