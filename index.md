@@ -12,7 +12,7 @@ title: Project Name (TBA)
 ## Ethan Young, Moksh Goel, Andrew Headley, Nathan Vairora
 
 [Assignments](./Assignments.md)
-[Team Organization](./Team Organization/Team Organization.md)
+[Team Organization](./Team_Organization.md)
 [User Needs, Benchmarking, and Requirements](./User%20Needs,%20Benchmarking,%20and%20Requirements/NeedsBenchmarkingRequirements.md)
 [Design Ideation](./Design%20Ideation/DesignIdeation.md)
 [Presentations](./Presentations/Presentation1.md)
