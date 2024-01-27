@@ -72,8 +72,13 @@ When possible, class time will be used as the primary weekly meetings. Subsequen
 - We will discuss during class whether or not we need to meet in person or through Discord for the week. 
 - If we need to edit the meeting hours, we will reference the meeting schedule highlighted above and make necessary adjustments.
 - The preferred format of meetings is virtual, but when necessary, we will meet in the Peralta lab in person.
-
-
+## Roles and Responsibilities
+| Role | Duties |
+|------|--------|
+|Meeting leader - Ethan Young | Schedules team meetings, runs each meeting, turns in assignments |
+| Meeting recorder - Andrew Headley | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned |
+| Assignment leader - Moksh Goel  | Coordinates the team's work on a given assignment to Canvas before the due date |
+| Project monitor - Nathan Vairora  | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 
 
