@@ -2,7 +2,9 @@
 title: Report
 ---
 <p align="center">
+  <b>
 Mobile Weather Station
+      </b>
 </p>
 <p align="center">
 January 26, 2024
@@ -35,10 +37,8 @@ Nathan Vairora
 
 
 
-
-
+#
 # Team Organization Charter
-
 When our team formed, we joined together to decide what the goals of this project would entail. From our discussion, we highlighted certain aspects that we deemed important to accomplish within the scope of the class. These ideals include:
 
 - Demonstrate proficiency in core engineering principles
@@ -52,3 +52,12 @@ After brainstorming our shared expectations for the project, we summarized our c
 
 To create a usable, viable product that is relatively unique and allows a measure of automation to be brought to the crop growing process. As well as providing an appropriate level of challenge for each team member, and meeting the EGR 314 course requirements. 
 
+# Appendix A: Team Organization Charter
+## Communication Channels
+**Table 1: Team Member Communication Modes**
+| Name | First Choice Communication    |  Second Choice Communication  | Third Choice Communication  |
+|------|-------------------------------|-------------------------------|-----------------------------|
+| Andrew | Discord | Text | Email |
+| Moksh  | Discord | Text | Email |
+| Ethan  | Discord | Text | Email |
+|Nathan  | Discord | Text | Email |
