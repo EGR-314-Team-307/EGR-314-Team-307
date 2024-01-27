@@ -92,5 +92,3 @@ Once three team members agree, an assignment is good to submit.
 - If someone gets feedback on a design, they can share it on Discord. Then, we can all talk about what to do next.
 - If a team member isn't doing well, we'll help them with extra meetings and study sessions.
 - If someone stops trying, we might have to issue a pink slip.
-
-
