@@ -8,6 +8,9 @@ The first couple searches, as well as the fourth and fifth search, focused on ex
 ## Search 1: “plant moisture reader”
 
 **Selected Product:**
+
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/8d111a90-2d4a-4182-ad0a-4a97c1994408)
+
 - Figure 1: 3-In-1 Soil Meter with Moisture, PH and Light Meter for Indoor/Outdoor Gardens
 - Price: $12.99
 - Vendor: Home Depot
@@ -30,6 +33,10 @@ The first couple searches, as well as the fourth and fifth search, focused on ex
 ## Search 2: “plant monitor kit”
 
 **Selected Product:**
+
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/e93a931a-0015-4050-8f73-611688bb34fd)
+
+
 - Figure 2: ALMOND Automatic Irrigation DIY Kit, 4Pcs Capacitive Soil Moisture Sensor+4Pcs 1 Channel 5V Relay Module + 4Pcs Water Pump + 4Pcs 1M Vinyl Tubing for Arduino Moisture Detection Garden Watering
 - Price: $16.98
 - Vendor: Amazon
@@ -50,6 +57,9 @@ The first couple searches, as well as the fourth and fifth search, focused on ex
 ## Search 3: “Automatic plant watering system”
 
 **Selected Product:**
+
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/47cc990c-1042-4652-a101-45072ebe5600)
+
 - Figure 3: RAINPOINT WiFi Automatic Watering System For Indoor Potted Plants, DIY Drip Irrigation Kit Remotely Control Auto/Manual/Delay Watering Mode via APP, Automatic Self-Watering Irrigation System with Pump
 - Price: $69.99
 - Vendor: Amazon
@@ -68,6 +78,9 @@ The first couple searches, as well as the fourth and fifth search, focused on ex
 ## Search 4: “Plant Monitor Soil Test Kit”
 
 **Selected Product:**
+
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/c8f740c2-57d0-497d-81b0-e7be01de0af7)
+
 - Figure 4: WANFEI Plant Monitor Soil Test Kit, Flower Care Soil Tester SmartPlant Tracker Intelligent Sensor Plants Detector Bluetooth Monitor for Light Moisture Fertility Temperature Level for iOS and Android
 - Price: $29.99
 - Vendor: Amazon
@@ -88,6 +101,8 @@ The first couple searches, as well as the fourth and fifth search, focused on ex
 | “I started to be suspicious of the readings when I realized that after using this device on ten different plants, they all came back with 35 to 45% moist levels. I then compare the readings of this product against another product that I have been using for a while, but the bad part is that you need to wait 10 minutes for the reading to be accurate. The difference between the two was unbelievable! We are talking about 10 in my old, slow device vs 45 on this WANFEI or another 35 in WANFEI vs 85 in reading the old sensor. The thing is that as soon as I put my finger on the plant that was reading 85 on my old sensor, I realized how wet the soil was. (a lot).” | The data being collected should be accurate. (Explicit) |
 
 ## Search 5: “electronic water monitor for plant”
+
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/e857681b-5bda-4768-8eb9-55dc0537b93c)
 
 **Selected Product:**
 - Figure 5: ECO WITT WH0291 Soil Moisture Tester Plant Soil Moisture Sensor Meter with Digital LCD Display
