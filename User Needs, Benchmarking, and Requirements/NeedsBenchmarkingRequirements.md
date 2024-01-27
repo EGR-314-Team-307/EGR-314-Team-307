@@ -1,8 +1,10 @@
 ---
-title: User Needs, Benchmarking, and Requirements
+# User Needs, Benchmarking, and Requirements
 ---
-# VOC Benchmarking
+To start getting an idea of what a viable prototype would look like, the team performed research into existing products that fell in line with initial project ideas. Then five of those products were selected to go in depth into what customer reviews were saying. Both good reviews and poor reviews were considered and evaluated for explicit and latent customer needs.
 
+# VOC Benchmarking
+The first couple searches, as well as the fourth and fifth search, focused on existing monitoring systems that used a variety of different sensors. The third search focused on the automation aspect, where consumers could set the product to run in their absence.
 ## Search 1: “plant moisture reader”
 
 **Selected Product:**
@@ -113,16 +115,17 @@ title: User Needs, Benchmarking, and Requirements
 
 
 ## Organize: Figure 2: Jamboard of User Needs
+Once each product's reviews had be evaluated for user needs, the team organized those needs into groupings of similarity. Six themes were then identified and labeled as categories, as seen in Table 11. Then taking into account the product reviews, the team weighed these categories by importance. 
 
 **Table 11: Categorized and Ranked User Needs**
 | Category    | Meta Statement                                             | Importance ★ |
 |-------------|------------------------------------------------------------|---------------|
 | Functionality | The product needs to function as intended.                | ★★★★★       |
-| Design        | The product needs to have a quality design...             | ★★★★         |
-| Quality       | All materials should be high quality...                   | ★★★          |
-| Durability    | The product needs to be durable...                        | ★★★          |
-| Safety        | The product needs to safely interact...                    | ★★★          |
-| Accessibility | The product needs to be available...                      | ★★★          |
+| Design        | The product needs to have a quality design.               | ★★★★         |
+| Quality       | All materials should be high quality.                     | ★★★          |
+| Durability    | The product needs to be durable.                          | ★★★          |
+| Safety        | The product needs to safely interact.                     | ★★★          |
+| Accessibility | The product needs to be available.                        | ★★★          |
 
 ## Use Cases
 ### User Story #1: Sarah
@@ -132,6 +135,7 @@ Sarah, a busy professional, relies on a smart plant waterer to keep her indoor p
 In a suburban garden, John installs an automatic plant cover to safeguard his delicate flowers from frost during chilly nights. As temperatures drop, the sensor-equipped cover detects the cold and swiftly unfurls, cocooning the plants in warmth until the weather improves. John can rest easy knowing his garden is shielded from harm, allowing his flowers to bloom undisturbed even in the coldest of nights.
 
 ## Aspects
+The categories identified in Table 11 and their associated importances then guided the development of requirements necessary to meet user needs. These aspects will be used as litmus tests during the course of the development of the prototype. As each subsytem is developed, it will be checked against these aspects to verify if the subsystem satisfies them or not. In the event that the subsystem does not staisfy the aspect, it will be reworked until it does. Further, when each subsystem is integrated into the final project, an overall verification test will be performed, to see if the final prototype meets or exceeds the requirements. If the integrated system fails, then it will be reworked until it succeeds.
 1. **Product Design**
    - 1.1 The design will emphasize user-friendliness.
    - 1.2 The design will be as portable as possible.
