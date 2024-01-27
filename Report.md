@@ -79,6 +79,18 @@ When possible, class time will be used as the primary weekly meetings. Subsequen
 | Meeting recorder - Andrew Headley | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned |
 | Assignment leader - Moksh Goel  | Coordinates the team's work on a given assignment to Canvas before the due date |
 | Project monitor - Nathan Vairora  | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
-
+## Specifications:
+- Roles will change every three assignments
+- Roles will rotate in order, beginning with each member choosing their role
+- If a team member is falling behind in their responsibilities, provided other members are up to date on their work, they can help out the team member who is struggling
+- If the three other team members feel one person isn't a good fit for a role, they can let the person know and the team member can be assigned a different role.
+- Team activities and milestones will be tracked via Canvas submissions and in-person progress checkpoints
+- Team members will be assigned technical responsibilities based on their talents and comfortability in different fields
+## Team Coordination & Accountability
+- In team meetings, the leader will talk about upcoming deadlines, and we'll figure out when and how to finish each task.
+Once three team members agree, an assignment is good to submit.
+- If someone gets feedback on a design, they can share it on Discord. Then, we can all talk about what to do next.
+- If a team member isn't doing well, we'll help them with extra meetings and study sessions.
+- If someone stops trying, we might have to issue a pink slip.
 
 
