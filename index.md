@@ -16,4 +16,4 @@ title: Project Name (TBA)
 [User Needs, Benchmarking, and Requirements](https://github.com/EGR-314-Team-307/EGR-314-Team-307/blob/main/User%20Needs%2C%20Benchmarking%2C%20and%20Requirements/NeedsBenchmarkingRequirements.md)
 [Design Ideation](https://github.com/EGR-314-Team-307/EGR-314-Team-307/blob/main/Design%20Ideation/DesignIdeation.md)
 [Presentations](https://github.com/EGR-314-Team-307/EGR-314-Team-307/blob/main/Presentations/Presentation1.md)
-
+[Report](https://github.com/EGR-314-Team-307/EGR-314-Team-307/blob/main/Report.md)
