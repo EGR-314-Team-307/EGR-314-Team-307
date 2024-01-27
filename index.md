@@ -12,7 +12,7 @@ title: Project Name (TBA)
 ## Ethan Young, Moksh Goel, Andrew Headley, Nathan Vairora
 
 [Assignments](./Assignments.md)
-[Team Organization](https://github.com/EGR-314-Team-307/EGR-314-Team-307/blob/main/Team%20Organization/Team%20Organization.md)
+[Team Organization](./Team%20Organization.md)
 [User Needs, Benchmarking, and Requirements](./NeedsBenchmarkingRequirements.md)
 [Design Ideation](./DesignIdeation.md)
 [Presentations](./Presentation1.md)
