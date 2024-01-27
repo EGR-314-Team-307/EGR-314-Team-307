@@ -123,3 +123,44 @@ title: User Needs, Benchmarking, and Requirements
 | Durability    | The product needs to be durable...                        | ★★★          |
 | Safety        | The product needs to safely interact...                    | ★★★          |
 | Accessibility | The product needs to be available...                      | ★★★          |
+
+## Use Cases
+### User Story #1: Sarah
+Sarah, a busy professional, relies on a smart plant waterer to keep her indoor plants thriving amidst her hectic schedule. With customized watering schedules and real-time monitoring, the device ensures each plant receives the precise amount of hydration it needs, sparing Sarah the worry of wilted foliage. Through remote control via a mobile app, Sarah can nurture her indoor garden effortlessly, enjoying the lush greenery that enriches her living space.
+
+### User Story #2: John
+In a suburban garden, John installs an automatic plant cover to safeguard his delicate flowers from frost during chilly nights. As temperatures drop, the sensor-equipped cover detects the cold and swiftly unfurls, cocooning the plants in warmth until the weather improves. John can rest easy knowing his garden is shielded from harm, allowing his flowers to bloom undisturbed even in the coldest of nights.
+
+## Aspects
+1. **Product Design**
+   - 1.1 The design will emphasize user-friendliness.
+   - 1.2 The design will be as portable as possible.
+   - 1.3 The design will have various sizes.
+   - 1.4 The design will be durable.
+
+2. **Functionality**
+   - 2.1 The product will be rechargeable.
+   - 2.2 The product will have a motor actuator.
+
+3. **Interactivity**
+   - 3.1 The product will be designed to prevent accidental use.
+
+4. **Adaptive Intelligence**
+   - 4.1 The product will turn off if not used for more than 60 minutes to save energy.
+   - 4.2 The device will be able to recognize touch and prevent injury by conforming to in-the-way objects.
+
+5. **Customization**
+   - 5.1 The product shall offer multiple size options.
+
+6. **Manufacturing**
+   - 6.1 The total BOM cost price of the product shall be <$200.
+   - 6.2 The construction of the product must be easy enough to understand to where a non-engineer can fix it if it were to be broken.
+   - 6.3 The product will be manufactured so that the parts stay in place during use.
+   - 6.4 Functioning of the device shall be easy to check by the manufacturer.
+   - 6.5 The product shall be designed to consist of the minimum possible amount of parts.
+
+7. **Regulations**
+   - 7.1 At least 2 analog sensors.
+   - 7.2 At least 1 motor/linear actuator with bidirectional control ability.
+   - 7.3 The product will run on 3.3V system logic-level voltage.
+   - 7.4 The dimensions of the custom circuit board will not exceed 100mm x 100mm.
