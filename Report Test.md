@@ -13,7 +13,7 @@ This team came together with the intent of creating a project that is achievable
 
 To create a usable, viable product that is relatively unique and allows a measure of automation to be brought to the crop growing process. As well as providing an appropriate level of challenge for each team member, and meeting the EGR 314 course requirements.
 
-[Link to Appendix A](Team-Organization-AppendixA.md)
+[Link to Appendix A](https://github.com/EGR-314-Team-307/EGR-314-Team-307/blob/main/Team%20Organization/Team-Organization-AppendixA.md)
 
 ---
 # User Needs, Benchmarking, and Requirements
