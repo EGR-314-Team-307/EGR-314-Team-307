@@ -12,3 +12,4 @@ title: Project Name (TBA)
 ## Ethan Young, Moksh Goel, Andrew Headley, Nathan Vairora
 
 [Assignments](/Assignments.md)
+[Team Organization](/Team%20Organization/Team%20Organization.md)
