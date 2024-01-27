@@ -1,11 +1,9 @@
 ---
 title: Report
 ---
-<p align="center">
-  <b>
+<h1 align="center">
 Mobile Weather Station
-      </b>
-</p>
+</h1>
 <p align="center">
 January 26, 2024
 </p>
@@ -38,7 +36,9 @@ Nathan Vairora
 
 
 #
-# Team Organization Charter
+<h1 align="center">
+Team Organization Charter
+</h1>
 When our team formed, we joined together to decide what the goals of this project would entail. From our discussion, we highlighted certain aspects that we deemed important to accomplish within the scope of the class. These ideals include:
 
 - Demonstrate proficiency in core engineering principles
@@ -98,7 +98,10 @@ Once three team members agree, an assignment is good to submit.
 #### Moksh Goel
 #### Andrew Headley
 
-# User Needs, Benchmarking, and Requirements
+<h1 align="center">
+User Needs, Benchmarking, and Requirements
+</h1>
+
 ## VOC Benchmarking
 The first couple searches, as well as the fourth and fifth search, focused on existing monitoring systems that used a variety of different sensors. The third search focused on the automation aspect, where consumers could set the product to run in their absence.
 ## Search 1: “plant moisture reader”
@@ -281,9 +284,10 @@ The categories identified in Table 11 and their associated importances then guid
    - 7.4 The dimensions of the custom circuit board will not exceed 100mm x 100mm.
 
 
+<h1 align="center">
+Design Ideation
+</h1>
 
-# Design Ideation
-##
 During the design ideation phase, the team created a Jamboard and proceeded to put up any idea that came to mind, be it a phrase that sparked a thought, or an explicit statement saying what the idea was. No thought was dismissed outright, no matter how outlandish it may have seemed. Due to the space available on Jamboard, as well as the readability of the sticky note function, the ideas had to be boiled down to a handful of words. This helped the ideas stay at a vague enough level that each team member could use them as inspiration and go their own ways with it. The downside to this method was that some ideas sounded like rephrasings of others, so some discussion had to happen in order to justify keeping all or some of similar ideas. 
 ## Generate Ideas
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/91f41a39-f1df-48e3-a80d-fac1992e7646)
