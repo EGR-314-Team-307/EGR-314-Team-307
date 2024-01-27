@@ -1,11 +1,13 @@
 ---
-title: Design Ideation
+Design Ideation
 ---
-
+During the design ideation phase, the team created a Jamboard and proceeded to put up any idea that came to mind, be it a phrase that sparked a thought, or an explicit statement saying what the idea was. No thought was dismissed outright, no matter how outlandish it may have seemed. Due to the space available on Jamboard, as well as the readability of the sticky note function, the ideas had to be boiled down to a handful of words. This helped the ideas stay at a vague enough level that each team member could use them as inspiration and go their own ways with it. The downside to this method was that some ideas sounded like rephrasings of others, so some discussion had to happen in order to justify keeping all or some of similar ideas. 
 ## Generate Ideas
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/91f41a39-f1df-48e3-a80d-fac1992e7646)
 
 ### Sort Ideas
+After the ideas were gathered, they were then sorted into project ideas and features. The team also identified prior to starting this that a focus on plant cultivation or care was an ideal concept based on the project scenario, so a third category was added to collect the ideas and features.
+
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/5bbc9d27-40f7-44a4-a943-0cf3fc0eac2b)
 
 #### Design 1: Plant Frost Shield
