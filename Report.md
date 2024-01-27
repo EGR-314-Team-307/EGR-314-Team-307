@@ -61,3 +61,12 @@ To create a usable, viable product that is relatively unique and allows a measur
 | Moksh  | Discord | Text | Email |
 | Ethan  | Discord | Text | Email |
 |Nathan  | Discord | Text | Email |
+## Communication Procedures
+We have a discord server set up for daily communication. If there isn't a response or we need a rapid response we would text or call them. If they are completely unresponsive we would email them as a last resort before bringing it to the professor.
+## Meeting Schedule
+When possible, class time will be used as the primary weekly meetings. Subsequent meetings and their modality will be determined by necessity, however the following times have been identified as when the majority of team members will be available:
+- Tuesday - 1pm-6pm
+- Wednesday - 2pm-5pm
+- Thursday - 2pm-6pm
+
+
