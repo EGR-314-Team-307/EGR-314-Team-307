@@ -13,7 +13,7 @@ title: Project Name (TBA)
 
 [Assignments](./Assignments.md)
 [Team Organization](./TeamOrg.md)
-[User Needs, Benchmarking, and Requirements](./User%20Needs.md)
+[User Needs, Benchmarking, and Requirements](./UserNeeds.md)
 [Design Ideation](./DesignIdeation.md)
 [Presentations](./Presentations.md)
 [Report](./Report.md)
