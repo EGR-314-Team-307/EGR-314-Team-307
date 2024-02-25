@@ -38,6 +38,7 @@ Team Organization Charter
 </h1>
 When our team formed, we joined together to decide what the goals of this project would entail. From our discussion, we highlighted certain aspects that we deemed important to accomplish within the scope of the class. These ideals include:
 
+
 - Demonstrate proficiency in core engineering principles
 - Enhance leadership skills within our team
 - Become proficient in understanding user needs
