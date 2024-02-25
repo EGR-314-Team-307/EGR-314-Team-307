@@ -14,10 +14,7 @@ Arizona State University
 Dr. Nichols
 </p>
 <p align="center">
-BY
-</p>
-<p align="center">
-Team 307
+BY Team 307
 </p>
 <p align="center">
 Moksh Goel
