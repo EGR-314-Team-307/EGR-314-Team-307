@@ -291,6 +291,7 @@ Ethan Young: Motor Actuator
 </p>
 Moksh Goel: Tempurature Sensor
 </p>
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/41125720-531c-42b5-95a9-c4d859ac19be)
 
 # Component Selection
 
