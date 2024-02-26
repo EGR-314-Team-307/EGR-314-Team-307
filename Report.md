@@ -284,9 +284,13 @@ The Water Sensor Management Network is an advanced and comprehensive system desi
 
 # Block Diagram
 Andrew: Microcontroller
+</p>
 Nathan Vairora: Humidity Sensor
+</p>
 Ethan Young: Motor Actuator
+</p>
 Moksh Goel: Tempurature Sensor
+</p>
 
 # Component Selection
 
