@@ -282,6 +282,15 @@ This automated plant watering system would use a timing system, moisture and tem
 
 The Water Sensor Management Network is an advanced and comprehensive system designed to monitor and manage the percentage of water in the soil and the water quality across various environments. Using moisture sensor technologies and interconnected data infrastructure, this network provides real-time insights into water conditions, ensuring efficient resource management and environmental sustainability.
 
+# Block Diagram
+
+# Component Selection
+
+# Hardware Proposal
+
+# Software Proposal
+
+
 # Appendix A: Team Organization Charter
 ## Communication Channels
 **Table 1: Team Member Communication Modes**
