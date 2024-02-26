@@ -304,7 +304,15 @@ $11.90
 </p>
 Rationale: While this selected motor is more expensive than generic DC motors, the main appeal that this motor had was the high torque output. This motor will be able to support the weight of the prototype.
 
-# Hardware Proposal
+## Motor Driver
+IFX9201SGAUMA1
+</p>
+$4.00
+</p>
+
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/b26c9aee-ac05-4806-9a77-5eb1991cbf39)
+</p>
+Rationale: This motor driver is compatible with the chosen motor, and it also supports SPI. 
 
 
 # Software Proposal
