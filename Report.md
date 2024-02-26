@@ -433,14 +433,13 @@ Once three team members agree, an assignment is good to submit.
 - If someone stops trying, we might have to issue a pink slip.
 ## Team 307 Signatures
 
-</p>
 Ethan Young
 
-</p>
+
 Nathan Vairora
 
-</p>
+
 Moksh Goel
 
-</p>
+
 Andrew Headley
