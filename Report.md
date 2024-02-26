@@ -32,7 +32,7 @@ Nathan Vairora
 
 
 
-#
+
 <h1 align="center">
 Team Organization Charter
 </h1>
