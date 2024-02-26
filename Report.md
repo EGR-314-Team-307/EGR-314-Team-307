@@ -294,6 +294,16 @@ Moksh Goel: Tempurature Sensor
 
 # Component Selection
 
+## Motor
+FIT0492-B
+</p>
+$11.90
+</p>
+
+
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/6c857586-6925-407b-90ce-849e6142946f)
+</p>
+Rationale: This motor has a high torque output, allowing the motor to support a decent load.
 
 # Hardware Proposal
 
