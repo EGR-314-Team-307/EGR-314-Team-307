@@ -131,7 +131,8 @@ The first couple searches, as well as the fourth and fifth search, focused on ex
 
 | Voice of the Customer | Related Customer Need            |
 |-----------------------|---------------------------------|
-| “I have never written this type of review before but my experience leads me to believe that this timer could have pumped 16 quarts of water all over the floor, because, when pumping water it changed from wifi to manual without my making a different setting. When this happened, wifi was pumping water as set but about half way through the wifi pumping time, the manual light lit up suddenly. I had not touched the timer. I sat and watched. I had a stopwatch running so I could determine if the timer would shut off at the time I had it set. It did not turn off at 4 minutes 22 seconds ( the setting) . Instead it kept pumping water. If I had not been sitting there monitoring the timer it may have just continued to pump water until it was all gone, all 16 quarts of it, and had a huge water overflow on the floor. My advice: if you buy this timer, check these things a) does it maintain the wifi connection. This one did not and it was not my 2.4 G wifi signal. b) Check to see if the timer starts at the time you have it set for, c) then with a stopwatch check to see if it stops pumping the water as set. Would I advise you to buy this brand...nope. I will say this positively: I called them 4 times to ask questions and they were good about answering my questions. They indicated that maybe the timer was faulty. Fat lot of good
+| “I have never written this type of review before but my experience leads me to believe that this timer could have pumped 16 quarts of water all over the floor, because, when pumping water it changed from wifi to manual without my making a different setting. When this happened, wifi was pumping water as set but about half way through the wifi pumping time, the manual light lit up suddenly. I had not touched the timer. I sat and watched. I had a stopwatch running so I could determine if the timer would shut off at the time I had it set. It did not turn off at 4 minutes 22 seconds ( the setting) . Instead it kept pumping water. If I had not been sitting there monitoring the timer it may have just continued to pump water until it was all gone, all 16 quarts of it, and had a huge water overflow on the floor. My advice: if you buy this timer, check these things a) does it maintain the wifi connection. This one did not and it was not my 2.4 G wifi signal. b) Check to see if the timer starts at the time you have it set for, c) then with a stopwatch check to see if it stops pumping the water as set. Would I advise you to buy this brand...nope. I will say this positively: I called them 4 times to ask questions and they were good about answering my questions. They indicated that maybe the timer was faulty. Fat lot of good | -
+
 
 ## Search 4: “Plant Monitor Soil Test Kit”
 
@@ -410,12 +411,13 @@ When possible, class time will be used as the primary weekly meetings. Subsequen
 - The preferred format of meetings is virtual, but when necessary, we will meet in the Peralta lab in person.
 ## Roles and Responsibilities
 
-| Role | Duties |
-|------|--------|
-|Meeting leader - Ethan Young | Schedules team meetings, runs each meeting, turns in assignments |
+| Role                   | Duties                                                                                   |
+|------------------------|-----------------------------------------------------------------------------------------|
+| Meeting leader - Ethan Young | Schedules team meetings, runs each meeting, turns in assignments                          |
 | Meeting recorder - Andrew Headley | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned |
-| Assignment leader - Moksh Goel  | Coordinates the team's work on a given assignment to Canvas before the due date |
-| Project monitor - Nathan Vairora  | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+| Assignment leader - Moksh Goel | Coordinates the team’s work on a given assignment to Canvas before the due date           |
+| Project monitor - Nathan Vairora | Tracks the team’s progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+
 ## Specifications:
 - Roles will change every three assignments
 - Roles will rotate in order, beginning with each member choosing their role
