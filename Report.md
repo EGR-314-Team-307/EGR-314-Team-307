@@ -413,12 +413,15 @@ Once three team members agree, an assignment is good to submit.
 - If a team member isn't doing well, we'll help them with extra meetings and study sessions.
 - If someone stops trying, we might have to issue a pink slip.
 ## Team 307 Signatures
+
 </p>
 Ethan Young
+
 </p>
 Nathan Vairora
+
 </p>
 Moksh Goel
+
 </p>
 Andrew Headley
-</p>
