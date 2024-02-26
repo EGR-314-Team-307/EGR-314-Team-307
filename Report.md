@@ -314,6 +314,37 @@ $4.00
 </p>
 Rationale: This motor driver is compatible with the chosen motor, and it also supports SPI. 
 
+## Switching Voltage Regulator
+LM25085QMYX/NOPB
+</p>
+$2.38
+</p>
+
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/d99d0ba9-f987-4c8d-868b-a6baa99783b1)
+</p>
+Rationale:
+
+## Light Sensor
+SENSOR OPT AMBIENT 4CHIPLED
+</p>
+$1.20
+</p>
+
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/af67871e-5d47-48e1-a2d6-136ec5eeb350)
+</p>
+Rationale: 
+
+## Heat Sensor
+ZTP-148SRC1
+</p>
+$1.97
+</p>
+
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/4029b698-6089-4951-9b92-ad0cbe879ca1)
+</p>
+Rationale: 
+
+## Battery
 
 # Software Proposal
 
