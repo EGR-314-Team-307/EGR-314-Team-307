@@ -300,10 +300,9 @@ FIT0492-B
 $11.90
 </p>
 
-
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/6c857586-6925-407b-90ce-849e6142946f)
 </p>
-Rationale: This motor has a high torque output, allowing the motor to support a decent load.
+Rationale: While this selected motor is more expensive than generic DC motors, the main appeal that this motor had was the high torque output. This motor will be able to support the weight of the prototype.
 
 # Hardware Proposal
 
