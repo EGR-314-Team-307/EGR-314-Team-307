@@ -175,15 +175,33 @@ The first couple searches, as well as the fourth and fifth search, focused on ex
 | “Was great but now the phone and PC application no longer works due to server changes by Ecowitt. Currently, they are completely useless.” | Needs to be open source (Explicit) |
 | “I bought 11 of these over the past year to monitor my plants outdoors and so far 4 have stopped working. The little red light flashes as expected to indicate the battery still works but they stopped communicating with both of my gateway receivers. The receivers are still showing data for the few sensors I have left so I know it is not a problem with those. I tried resetting the receivers and changing the batteries for the affected sensors, but still no luck. The sensors seem to be well sealed too as I don't see any sign of moisture build up inside the battery compartment. I contacted the company and they kindly sent me 2 replacements for the first two that died but since then another 2 have died.” | Needs to be modular for easy repairs(Explicit) |
 
+## Search 6: “Automatic Fire Extinguisher”
 
+**Selected Product:**
 
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/c8f740c2-57d0-497d-81b0-e7be01de0af7)
 
+- Figure 4: JOSEOZSTA Automatic Fire Extinguisher-Car Fire Extinguisher 
+- Price: $39.99
+- Vendor: Amazon
+- Description: Joseozsta Automatic Fire Extinguisher is full-automatic,when it's trigger device catch fire, it will start working in 2-3 seconds,and fire extinguishing only less than 9 seconds
 
+**Table 11: 4-5 Star Review Positive Comments**
+| Voice of the Customer | Related Customer Need           |
+|-----------------------|---------------------------------|
+| “the product was inexpensive when compared to the competition. Good transaction.” | The product should be competitive to the market (Explicit). |
+| “Merchandise is in excellent condition. Thank you for a great deal, I really appreciate it. ” | Ensure the product is in excellent condition (Explicit). |
+| “I bought 2 of these unit to install in the back of a large RV propane/electric absorption fridge just in case there is ever a fire back there. Gives me peace of mind and hopefully they will never be used and if so they work as advertised” | The product should work as advertised (Explicit). |
+
+**Table 12: 1-2 Star Review Negative Comments**
+| Voice of the Customer | Related Customer Need            |
+|-----------------------|---------------------------------|
+| “I threw it in my car once it came in and a week later, my son got a hold of a lighter and started a flame that caught our backseat while driving. I pulled over immediately and pulled the extinguisher out, but it didn’t work at all.” | The product should be easy to operate (Latent). |
 
 ## Organize: Figure 2: Jamboard of User Needs
 Once each product's reviews had be evaluated for user needs, the team organized those needs into groupings of similarity. Six themes were then identified and labeled as categories, as seen in Table 11. Then taking into account the product reviews, the team weighed these categories by importance. 
 
-**Table 11: Categorized and Ranked User Needs**
+**Table 13: Categorized and Ranked User Needs**
 | Category    | Meta Statement                                             | Importance ★ |
 |-------------|------------------------------------------------------------|---------------|
 | Functionality | The product needs to function as intended.                | ★★★★★       |
