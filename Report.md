@@ -33,9 +33,9 @@ Nathan Vairora
 
 
 
-<h1 align="center">
-Team Organization Charter
-</h1>
+
+# Team Organization Charter
+
 When our team formed, we joined together to decide what the goals of this project would entail. From our discussion, we highlighted certain aspects that we deemed important to accomplish within the scope of the class. These ideals include:
 
 
@@ -50,12 +50,12 @@ After brainstorming our shared expectations for the project, we summarized our c
 
 To create a usable, viable product that is relatively unique and allows a measure of automation to be brought to the crop growing process. As well as providing an appropriate level of challenge for each team member, and meeting the EGR 314 course requirements. 
 
-<h1 align="center">
-User Needs, Benchmarking, and Requirements
-</h1>
+
+# User Needs, Benchmarking, and Requirements
+
 
 ## VOC Benchmarking
-The first couple searches, as well as the fourth and fifth search, focused on existing monitoring systems that used a variety of different sensors. The third search focused on the automation aspect, where consumers could set the product to run in their absence.
+The first couple searches, as well as the fourth and fifth search, focused on existing monitoring systems that used a variety of different sensors. The third search focused on the automation aspect, where consumers could set the product to run in their absence The sixth search focused on an automated fire suppression system.
 ## Search 1: “plant moisture reader”
 
 **Selected Product:**
