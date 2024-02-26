@@ -32,8 +32,6 @@ Nathan Vairora
 
 
 
-
-
 # Team Organization Charter
 
 When our team formed, we joined together to decide what the goals of this project would entail. From our discussion, we highlighted certain aspects that we deemed important to accomplish within the scope of the class. These ideals include:
@@ -227,6 +225,7 @@ Once each product's reviews had be evaluated for user needs, the team organized 
 | Accessibility | The product needs to be available.                        | ★★★          |
 
 ## Use Cases
+
 ### User Story #1: Sarah
 Sarah, a busy professional, relies on a smart plant waterer to keep her indoor plants thriving amidst her hectic schedule. With customized watering schedules and real-time monitoring, the device ensures each plant receives the precise amount of hydration it needs, sparing Sarah the worry of wilted foliage. Through remote control via a mobile app, Sarah can nurture her indoor garden effortlessly, enjoying the lush greenery that enriches her living space.
 
