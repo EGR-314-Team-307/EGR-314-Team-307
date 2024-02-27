@@ -328,8 +328,6 @@ $11.90
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/6c857586-6925-407b-90ce-849e6142946f)
 
-Rationale: While this selected motor is more expensive than generic DC motors, the main appeal that this motor had was the high torque output. This motor will be able to support the weight of the prototype.
-
 ## Motor Driver
 IFX9201SGAUMA1
 
@@ -338,8 +336,6 @@ $4.00
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/b26c9aee-ac05-4806-9a77-5eb1991cbf39)
 
-Rationale: This motor driver is compatible with the chosen motor, and it also supports SPI. 
-
 ## Switching Voltage Regulator
 LM25085QMYX/NOPB
 
@@ -347,15 +343,11 @@ $2.38
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/d99d0ba9-f987-4c8d-868b-a6baa99783b1)
 
-Rationale:
-
 ## Light Sensor
 SENSOR OPT AMBIENT 4CHIPLED
 
 
 $1.20
-
-![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/af67871e-5d47-48e1-a2d6-136ec5eeb350)
 
 Rationale: 
 
@@ -367,8 +359,6 @@ $1.97
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/4029b698-6089-4951-9b92-ad0cbe879ca1)
 
-Rationale: 
-
 ## Battery
 EN22
 
@@ -376,8 +366,6 @@ EN22
 $2.61
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/70c055f0-398e-4db0-9058-c90d0bd07800)
-
-Rationale: This battery is relatively cheap and provides enough voltage for the system to operate.
 
 # Microcontroller Selection
 For the choice of mircocontrollers, the team identified three potential candidates: the PIC18F14Q40, the PIC16F18855, and the PIC24FJ32GP202. Then the chips were compared to each other to see which would be the best option based on the project requirements, primarily power requirements, number of SPI, I2C, and UART pins, and overall number of pins. With these criteria, the PIC24FJ32GP202 chip was selected. 
