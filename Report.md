@@ -189,7 +189,7 @@ The first couple searches, as well as the fourth and fifth search, focused on ex
 
 **Selected Product:**
 
-![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/c8f740c2-57d0-497d-81b0-e7be01de0af7)
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/4d01349b-ca81-457a-bfed-280f8c4dbd52)
 
 - Figure 4: JOSEOZSTA Automatic Fire Extinguisher-Car Fire Extinguisher 
 - Price: $39.99
