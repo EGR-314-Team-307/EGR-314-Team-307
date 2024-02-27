@@ -301,6 +301,9 @@ The Water Sensor Management Network is an advanced and comprehensive system desi
 
 This automated fire extinguisher operates by utilizing a light sensor and temperature detector to identify fires swiftly. Once a fire is detected, it activates a motor that moves the extinguisher into position and triggers its operation, swiftly suppressing the flames and mitigating potential damage.
 
+# Updated Selected Design
+At the beginning of the design process, the team focused primarily on automating plant care while users are away. This route was taken due to uncertainty in the feasibility of other project ideas. This led to some disastisfaction in the team that the project would be something to be proud of, and so the team consulted with one of the teaching assistants for the course. After expressing their thoughts, the teaching assistant indicated that one of the more popular ideas that the team had set aside in belief that it would not be possible would actually be doable if the scope was limited properly. This is what led the team to pivot the project idea away from automated plant care to an automated fire extinguisher system. This new project would incorporate some of the same needs and requirements, albeit with a change in sensors for the individual subsytems. 
+
 # Block Diagram
 Prior to component selection, a block diagram was contsructed to get a general idea of how each component would need to connect to each other to function. This also informed the team on how many pins might be required on the microcontroller, as well as potential power requirements for each component. Each team member took charge of a part of the subsytem, with the member being responsible for the microcontroller also taking on the power subsystem.
 
