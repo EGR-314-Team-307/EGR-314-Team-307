@@ -32,7 +32,7 @@ Nathan Vairora
 
 
 
-# Team Organization Charter
+# [Team Organization](./TeamOrg.md)
 
 When our team formed, we joined together to decide what the goals of this project would entail. From our discussion, we highlighted certain aspects that we deemed important to accomplish within the scope of the class. These ideals include:
 
@@ -49,7 +49,7 @@ After brainstorming our shared expectations for the project, we summarized our c
 To create a usable, viable product that is relatively unique and allows a measure of automation to be brought to the crop-growing process. As well as providing an appropriate level of challenge for each team member, and meeting the EGR 314 course requirements. 
 
 
-# User Needs, Benchmarking, and Requirements
+# [User Needs, Benchmarking, and Requirements](./UserNeeds.md)
 
 
 ## VOC Benchmarking
@@ -269,7 +269,7 @@ The categories identified in Table 13 and their associated importances then guid
 
 
 
-# Design Ideation
+# [Design Ideation](./DesignIdeation.md)
 
 
 During the design ideation phase, the team created a Jamboard and proceeded to put up any idea that came to mind, be it a phrase that sparked a thought, or an explicit statement saying what the idea was. No thought was dismissed outright, no matter how outlandish it may have seemed. Due to the space available on Jamboard, as well as the readability of the sticky note function, the ideas had to be boiled down to a handful of words. This helped the ideas stay at a vague enough level that each team member could use them as inspiration and go their own ways with it. The downside to this method was that some ideas sounded like rephrasings of others, so some discussion had to happen in order to justify keeping all or some of similar ideas. 
@@ -304,7 +304,8 @@ This automated fire extinguisher operates by utilizing a light sensor and temper
 # Updated Selected Design
 At the beginning of the design process, the team focused primarily on automating plant care while users were away. This route was taken due to uncertainty in the feasibility of other project ideas. This led to some dissatisfaction in the team that the project would be something to be proud of, and so the team consulted with one of the teaching assistants for the course. After expressing their thoughts, the teaching assistant indicated that one of the more popular ideas that the team had set aside in the belief that it would not be possible would actually be doable if the scope was limited properly. This is what led the team to pivot the project idea away from automated plant care to an automated fire extinguisher system. This new project would incorporate some of the same needs and requirements, albeit with a change in sensors for the individual subsystems. 
 
-# Block Diagram
+# [Block Diagram](./BlockDiagram.md)
+
 Prior to component selection, a block diagram was constructed to get a general idea of how each component would need to connect to each other to function. This also informed the team on how many pins might be required on the microcontroller, as well as potential power requirements for each component. Each team member took charge of a part of the subsystem, with the member being responsible for the microcontroller and also taking on the power subsystem.
 
 Andrew Headley: Microcontroller
@@ -318,7 +319,7 @@ Moksh Goel: Tempurature Sensor
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/41125720-531c-42b5-95a9-c4d859ac19be)
 
-# Component Selection
+# [Component Selection](./ComponentSelection.md)
 
 ## Motor
 FIT0492-B
@@ -430,7 +431,7 @@ $2.61
 Rationale:
 This battery was selected with the input voltage requirements for the voltage regulator in mind. It can provide an appropriate voltage level for the regulator to step down to 3.3V.
 
-# Microcontroller Selection
+# [Microcontroller Selection](./MicrocontrollerSelection.md)
 For the choice of microcontrollers, the team identified three potential candidates: the PIC18F14Q40, the PIC16F18855, and the PIC24FJ32GP202. Then the chips were compared to each other to see which would be the best option based on the project requirements, primarily power requirements, number of SPI, I2C, and UART pins, and overall number of pins. With these criteria, the PIC24FJ32GP202 chip was selected. 
 
 |                                  | PIC Option 1 | PIC Option 2 | PIC Option 3 |
@@ -474,13 +475,13 @@ For the choice of microcontrollers, the team identified three potential candidat
 
 ### Final Microcontroller Choice: PIC24FJ32GP202
 
-# Hardware Proposal
+# [Hardware Proposal](./HardwareProposal.md)
 With the selected microcontroller and components, the team put together a wiring schematic for each subsystem, taking into account any supplementary circuitry needed. The microcontroller required a switching voltage regulator that could take a 9V source and output a regulated 3.3V. This would also supply power to the subsystems. With the light and heat sensors, the team believes that is enough to determine the location of a simulated fire, as well as the motor being capable of rotating a simple actuator to aim a fire extinguisher towards that fire. The following image is the current circuit schematic of each subsystem.
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/c47b7918-99d1-4399-a098-f9fec08382e0)
 
 
-# Software Proposal
+# [Software Proposal](./SoftwareProposal.md)
 The flow through the software code needed to be developed once the components were selected. To do this, the team identified the different coding requirements for the sensors and the microcontroller. The sensors require I2C for communicating with the microcontroller, and the motor driver requires SPI. When the system powers on, the system needs to initialize with the appropriate setup for the two different types of serial communication. Once the communication methods have been initialized, the sensors will be enabled, then the motor, and then the ESP32 module. At this point, the system will start reading the output of the sensors while comparing those outputs to baseline values in order to determine if the prototype is facing a fire or not. If the sensor values are determined to indicate a fire, the system state will be changed, and the motor will be told to move whilst still reading the sensor outputs. Once the greatest value output by the sensors has been reached, the motor will be told to stop. If the sensors continue to indicate a fire, the motor will stay at that position; if the sensors indicate the fire has been extinguished, the motor will move back to its origin position and the state of the system will be changed back to monitoring for a fire. Each time there is a system state change, the system will output an update via the ESP32 module. The following figures represent the logic flow of the system:
 
 ## Main Control Loop
