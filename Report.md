@@ -311,13 +311,13 @@ Prior to component selection, a block diagram was constructed to get a general i
 Andrew Headley: Microcontroller
 
 
-Nathan Vairora: Humidity Sensor
+Nathan Vairora: Temperature Sensor
 
 
 Ethan Young: Motor Actuator
 
 
-Moksh Goel: Tempurature Sensor
+Moksh Goel: Light Sensor
 
 
 
