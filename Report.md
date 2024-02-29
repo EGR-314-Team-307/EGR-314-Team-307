@@ -321,6 +321,8 @@ Moksh Goel: Tempurature Sensor
 
 # [Component Selection](./ComponentSelection.md)
 
+### See Appendix C for the power budget
+
 ## Motor
 FIT0492-B
 
