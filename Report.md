@@ -268,9 +268,9 @@ The categories identified in Table 13 and their associated importances then guid
    - 7.4 The dimensions of the custom circuit board will not exceed 100mm x 100mm.
 
 
-<h1 align="center">
-Design Ideation
-</h1>
+
+# Design Ideation
+
 
 During the design ideation phase, the team created a Jamboard and proceeded to put up any idea that came to mind, be it a phrase that sparked a thought, or an explicit statement saying what the idea was. No thought was dismissed outright, no matter how outlandish it may have seemed. Due to the space available on Jamboard, as well as the readability of the sticky note function, the ideas had to be boiled down to a handful of words. This helped the ideas stay at a vague enough level that each team member could use them as inspiration and go their own ways with it. The downside to this method was that some ideas sounded like rephrasings of others, so some discussion had to happen in order to justify keeping all or some of similar ideas. 
 ## Generate Ideas
