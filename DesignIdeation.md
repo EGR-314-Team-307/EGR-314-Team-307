@@ -24,3 +24,11 @@ This automated plant watering system would use a timing system, moisture and tem
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/757f6a3e-4170-4c0a-b5f7-36c9ee9f8bbf)
 
 The Water Sensor Management Network is an advanced and comprehensive system designed to monitor and manage the percentage of water in the soil and the water quality across various environments. Using moisture sensor technologies and interconnected data infrastructure, this network provides real-time insights into water conditions, ensuring efficient resource management and environmental sustainability.
+
+#### Design 4: Fire Extinguisher Sentry
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/baa90fdc-6884-4ba5-b803-2480c5c28e21)
+
+This automated fire extinguisher operates by utilizing a light sensor and temperature detector to identify fires swiftly. Once a fire is detected, it activates a motor that moves the extinguisher into position and triggers its operation, swiftly suppressing the flames and mitigating potential damage.
+
+#### Updated Selected Design
+At the beginning of the design process, the team focused primarily on automating plant care while users are away. This route was taken due to uncertainty in the feasibility of other project ideas. This led to some dissatisfaction in the team that the project would be something to be proud of, and so the team consulted with one of the teaching assistants for the course. After expressing their thoughts, the teaching assistant indicated that one of the more popular ideas that the team had set aside in belief that it would not be possible would actually be doable if the scope was limited properly. This is what led the team to pivot the project idea away from automated plant care to an automated fire extinguisher system. This new project would incorporate some of the same needs and requirements, albeit with a change in sensors for the individual subsytems. 
