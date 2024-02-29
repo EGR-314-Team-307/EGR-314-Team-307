@@ -328,6 +328,9 @@ $11.90
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/6c857586-6925-407b-90ce-849e6142946f)
 
+Rationale:
+This motor was selected primarily for its higher torque output. It is one of the more expensive options and requires a separate 12V power rail, however the torque was of higher priority.
+
 ## Motor Driver
 IFX9201SGAUMA1
 
@@ -336,6 +339,9 @@ $4.00
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/b26c9aee-ac05-4806-9a77-5eb1991cbf39)
 
+Rationale:
+This motor driver was selected for its compatibility with the chosen motor. It is also more expensive than other options found, but the compatibility was of greater import.
+
 ## Switching Voltage Regulator
 LM25085QMYX/NOPB
 
@@ -343,6 +349,7 @@ $2.38
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/d99d0ba9-f987-4c8d-868b-a6baa99783b1)
 
+Rationale:
 This voltage regualtor was selected due to the supporting circuitry for a typical application being relatively simpler compared to the other options found. Adjusting the circuitry to output 3.3V also appeared straightforward, with multiple equations provided and all of the components required available as surface mount options.
 
 ## Light Sensor
@@ -352,6 +359,7 @@ SENSOR OPT AMBIENT 4CHIPLED
 $1.20
 
 Rationale: 
+This sensor was selected due to its fewer number of pins for an easier soldering experience, the communication via I2C, and wide operating temperature range. It was also less expensive than other options.
 
 ## Heat Sensor
 ZTP-148SRC1
@@ -361,6 +369,9 @@ $1.97
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/4029b698-6089-4951-9b92-ad0cbe879ca1)
 
+Rationale:
+This heat sensor was selected for its range of operating temperatures and ability to detect changes in heat at longer distances. This would assist in getting better direction figuring when detecting a fire.
+
 ## Battery
 EN22
 
@@ -368,6 +379,9 @@ EN22
 $2.61
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/70c055f0-398e-4db0-9058-c90d0bd07800)
+
+Rationale:
+This battery was selected with the input voltage requirements for the voltage regulator in mind. It can provide an appropriate voltage level for the regulator to step down to 3.3V.
 
 # Microcontroller Selection
 For the choice of mircocontrollers, the team identified three potential candidates: the PIC18F14Q40, the PIC16F18855, and the PIC24FJ32GP202. Then the chips were compared to each other to see which would be the best option based on the project requirements, primarily power requirements, number of SPI, I2C, and UART pins, and overall number of pins. With these criteria, the PIC24FJ32GP202 chip was selected. 
