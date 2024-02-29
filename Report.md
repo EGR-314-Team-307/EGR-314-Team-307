@@ -343,6 +343,8 @@ $2.38
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/d99d0ba9-f987-4c8d-868b-a6baa99783b1)
 
+This voltage regualtor was selected due to the supporting circuitry for a typical application being relatively simpler compared to the other options found. Adjusting the circuitry to output 3.3V also appeared straightforward, with multiple equations provided and all of the components required available as surface mount options.
+
 ## Light Sensor
 SENSOR OPT AMBIENT 4CHIPLED
 
