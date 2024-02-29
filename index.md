@@ -16,7 +16,12 @@
 ## Ethan Young, Moksh Goel, Andrew Headley, Nathan Vairora
 ---
 
-[Assignments](./Assignments.md)
+##### Click the below link to see the full report:
+
+### [Report](./Report.md)
+
+
+##### Click the below links to see the individual sections of the report:
 
 [Team Organization](./TeamOrg.md)
 
@@ -24,8 +29,21 @@
 
 [Design Ideation](./DesignIdeation.md)
 
+[Block Diagram](./BlockDiagram.md)
+
+[Component Selection](./ComponentSelection.md)
+
+[Microcontroller Selection](./MicrocontrollerSelection.md)
+
+[Hardware Proposal](./HardwareProposal.md)
+
 [Software Proposal](./SoftwareProposal.md)
 
-[Presentations](./Presentations.md)
 
-[Report](./Report.md)
+#### Checkpoint 1 Presentation:
+
+
+[Checkpoint 1 Presentation](./Presentations.md)
+
+
+
