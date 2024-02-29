@@ -15,6 +15,7 @@
 | Works with MPLAB® X Integrated Development Environment (IDE)? | Yes | Yes | Yes |
 | Works with Microchip Code Configurator? | Yes | Yes (?) | Yes |
 
+
 |                           | PIC Option 1 | PIC Option 2 | PIC Option 3 |
 |---------------------------|--------------|--------------|--------------|
 | How many GPIO Pins?       | 6+           | 18           | 25           |
@@ -22,6 +23,7 @@
 | Built-in Hardware PWM?    | 1+           | 3            | 2            |
 | Built-in I2C? SPI? How many? | 1+SPI, 1+I2C | 2 SPI, 1 I2C | 2 SPI, 2 I2C |
 | Built-in UART? How many?  | 2+UART       | 3 USART      | 0 UART, 1 USART (?) |
+
 #### Overall Pros
 
 1. PIC Option 1: 3UART, Multiple PWMs
