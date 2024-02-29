@@ -10,4 +10,4 @@ Ethan Young: Motor Actuator
 Moksh Goel: Tempurature Sensor
 </p>
 
-![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/41125720-531c-42b5-95a9-c4d859ac19be)
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/118413228/28098f60-db20-42ea-8076-8f10d53dd45e)
