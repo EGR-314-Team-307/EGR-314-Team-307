@@ -556,7 +556,8 @@ Andrew Headley
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/94e54736-0637-490f-be47-feb6c223853f)
 
 # Appendix C: Power Budget
-![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/9287dce2-0f18-4053-837f-ed472c647bbe)
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/355c9a0d-c717-4289-8ec7-9b39aad9ac63)
 
-![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/00c3ac5a-e286-4a0f-92c1-867ce1242d73)
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/b1f1ee47-65c0-4cb0-95ea-7c6f42cefefe)
+
 
