@@ -328,6 +328,15 @@ $11.90
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/6c857586-6925-407b-90ce-849e6142946f)
 
+| Pros                                           | Cons                                             |
+|------------------------------------------------|--------------------------------------------------|
+| Datasheet     | More expensive than alternative options      |
+| High Torque                   |  |
+| 12V           |                    |
+| Decent Supply from Digikey        |                            |
+| High quality and performance         
+
+
 Rationale:
 This motor was selected primarily for its higher torque output. It is one of the more expensive options and requires a separate 12V power rail, however the torque was of higher priority.
 
@@ -339,6 +348,13 @@ $4.00
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/b26c9aee-ac05-4806-9a77-5eb1991cbf39)
 
+| Pros                                           | Cons                                             |
+|------------------------------------------------|--------------------------------------------------|
+| Higher current output of 6A per channel     | More expensive than alternative options      |
+| Optimal temperature range                   |  |
+| Includes Datasheet           |                    |
+| Higher Supply Voltage        |                            |
+
 Rationale:
 This motor driver was selected for its compatibility with the chosen motor. It is also more expensive than other options found, but the compatibility was of greater import.
 
@@ -349,8 +365,16 @@ $2.38
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/d99d0ba9-f987-4c8d-868b-a6baa99783b1)
 
+
+| Pros                                           | Cons                                             |
+|------------------------------------------------|--------------------------------------------------|
+| Includes Datasheet     | Support circuitry required      |
+| Adjustable output voltage                   | Multiple resistors, capacitors, and inductors |
+|  Typical application circuit to follow         |                    |
+| Supply voltage between 4.5V and 42V        |                            |
+
 Rationale:
-This voltage regualtor was selected due to the supporting circuitry for a typical application being relatively simpler compared to the other options found. Adjusting the circuitry to output 3.3V also appeared straightforward, with multiple equations provided and all of the components required available as surface mount options.
+This voltage regulator was selected due to the supporting circuitry for a typical application being relatively simpler than the other options. Adjusting the circuitry to output 3.3V also appeared straightforward, with multiple equations provided and all of the components required available as surface mount options.
 
 ## Light Sensor
 SENSOR OPT AMBIENT 4CHIPLED
