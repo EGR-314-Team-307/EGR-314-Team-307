@@ -2,6 +2,8 @@
 # Fire Extinguisher Sentry
 ---
 
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/baa90fdc-6884-4ba5-b803-2480c5c28e21)
+
 ## EGR 314 Team 307
  Spring 2024
 
@@ -15,9 +17,6 @@
 # Team Members
 ## Ethan Young, Moksh Goel, Andrew Headley, Nathan Vairora
 ---
-
-## Fire Extinguisher Sentry
-![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/baa90fdc-6884-4ba5-b803-2480c5c28e21)
 
 ##### Click the below link to see the full report:
 
