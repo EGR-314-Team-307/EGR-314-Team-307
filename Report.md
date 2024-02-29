@@ -382,8 +382,17 @@ SENSOR OPT AMBIENT 4CHIPLED
 
 $1.20
 
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/06b560dd-659e-45a5-ab1b-9158c3f684cf)
+
+| Pros                                           | Cons                                             |
+|------------------------------------------------|--------------------------------------------------|
+| 2.4V-3.6V    | Weight not included     |
+| Inexpensive                   |  |
+| Wide Temperature Range        |                    |
+| Includes Datasheet       |                            |
+
 Rationale: 
-This sensor was selected due to its fewer number of pins for an easier soldering experience, the communication via I2C, and wide operating temperature range. It was also less expensive than other options.
+This sensor was selected due to its smaller number of pins for an easier soldering experience, the communication via I2C, and wide operating temperature range. It was also less expensive than other options.
 
 ## Heat Sensor
 ZTP-148SRC1
@@ -392,6 +401,14 @@ ZTP-148SRC1
 $1.97
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/4029b698-6089-4951-9b92-ad0cbe879ca1)
+
+| Pros                                           | Cons                                             |
+|------------------------------------------------|--------------------------------------------------|
+| Cost Effective     | 4 pin output      |
+| Includes Datasheet                  | Non surface mount |
+| Analog Output          |                    |
+| Working Temperature -20°C ~ 100°C        |                            |
+| Long distance         
 
 Rationale:
 This heat sensor was selected for its range of operating temperatures and ability to detect changes in heat at longer distances. This would assist in getting better direction figuring when detecting a fire.
@@ -403,6 +420,12 @@ EN22
 $2.61
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/70c055f0-398e-4db0-9058-c90d0bd07800)
+
+| Pros                                           | Cons                                             |
+|------------------------------------------------|--------------------------------------------------|
+| Includes Datasheet    | Non rechargeable     |
+| 9V                   |  |
+| Inexpensive        |                    |
 
 Rationale:
 This battery was selected with the input voltage requirements for the voltage regulator in mind. It can provide an appropriate voltage level for the regulator to step down to 3.3V.
