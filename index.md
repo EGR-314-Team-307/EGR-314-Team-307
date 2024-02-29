@@ -11,10 +11,17 @@
 # Team Members
 ## Ethan Young, Moksh Goel, Andrew Headley, Nathan Vairora
 ---
+
 [Assignments](./Assignments.md)
+
 [Team Organization](./TeamOrg.md)
+
 [User Needs, Benchmarking, and Requirements](./UserNeeds.md)
+
 [Design Ideation](./DesignIdeation.md)
+
 [Software Proposal](./SoftwareProposal.md)
+
 [Presentations](./Presentations.md)
+
 [Report](./Report.md)
