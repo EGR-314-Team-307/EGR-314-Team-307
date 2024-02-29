@@ -46,21 +46,21 @@ When our team formed, we joined together to decide what the goals of this projec
 
 After brainstorming our shared expectations for the project, we summarized our collective thoughts into a product mission statement that encapsulates what we hope to achieve with this venture:
 
-To create a usable, viable product that is relatively unique and allows a measure of automation to be brought to the crop growing process. As well as providing an appropriate level of challenge for each team member, and meeting the EGR 314 course requirements. 
+To create a usable, viable product that is relatively unique and allows a measure of automation to be brought to the crop-growing process. As well as providing an appropriate level of challenge for each team member, and meeting the EGR 314 course requirements. 
 
 
 # User Needs, Benchmarking, and Requirements
 
 
 ## VOC Benchmarking
-The first couple searches, as well as the fourth and fifth search, focused on existing monitoring systems that used a variety of different sensors. The third search focused on the automation aspect, where consumers could set the product to run in their absence The sixth search focused on an automated fire suppression system.
+The first couple of searches, as well as the fourth and fifth searches, focused on existing monitoring systems that used a variety of different sensors. The third search focused on the automation aspect, where consumers could set the product to run in their absence The sixth search focused on an automated fire suppression system.
 ## Search 1: “plant moisture reader”
 
 **Selected Product:**
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/8d111a90-2d4a-4182-ad0a-4a97c1994408)
 
-- Figure 1: 3-In-1 Soil Meter with Moisture, PH and Light Meter for Indoor/Outdoor Gardens
+- Figure 1: 3-In-1 Soil Meter with Moisture, PH, and Light Meter for Indoor/Outdoor Gardens
 - Price: $12.99
 - Vendor: Home Depot
 - Description: This product was designed to detect moisture, pH, and sunlight. The product is great for testing in lawns, gardens, greenhouses, and homes because it is designed for indoor and outdoor use.
@@ -116,7 +116,7 @@ The first couple searches, as well as the fourth and fifth search, focused on ex
 - Figure 3: RAINPOINT WiFi Automatic Watering System For Indoor Potted Plants, DIY Drip Irrigation Kit Remotely Control Auto/Manual/Delay Watering Mode via APP, Automatic Self-Watering Irrigation System with Pump
 - Price: $69.99
 - Vendor: Amazon
-- Description: App controlled irrigation system that can use environmental information like local temperature, humidity, and sun position to know when to water house plants, but a timer can also be set instead.
+- Description: App-controlled irrigation system that can use environmental information like local temperature, humidity, and sun position to know when to water house plants, but a timer can also be set instead.
 
 **Table 5: 4-5 Star Review Positive Comments**
 
@@ -141,7 +141,7 @@ The first couple searches, as well as the fourth and fifth search, focused on ex
 - Figure 4: WANFEI Plant Monitor Soil Test Kit, Flower Care Soil Tester SmartPlant Tracker Intelligent Sensor Plants Detector Bluetooth Monitor for Light Moisture Fertility Temperature Level for iOS and Android
 - Price: $29.99
 - Vendor: Amazon
-- Description: 4 in 1 Intelligent Sensor --- Provides information on soil moisture, fertility level, temperature and light intensity --- The Grow nursing home is an intelligent sensor designed to be planted in an indoor pot.
+- Description: 4 in 1 Intelligent Sensor --- Provides information on soil moisture, fertility level, temperature, and light intensity --- The Grow nursing home is an intelligent sensor designed to be planted in an indoor pot.
 
 **Table 7: 4-5 Star Review Positive Comments**
 
@@ -302,10 +302,10 @@ The Water Sensor Management Network is an advanced and comprehensive system desi
 This automated fire extinguisher operates by utilizing a light sensor and temperature detector to identify fires swiftly. Once a fire is detected, it activates a motor that moves the extinguisher into position and triggers its operation, swiftly suppressing the flames and mitigating potential damage.
 
 # Updated Selected Design
-At the beginning of the design process, the team focused primarily on automating plant care while users are away. This route was taken due to uncertainty in the feasibility of other project ideas. This led to some disastisfaction in the team that the project would be something to be proud of, and so the team consulted with one of the teaching assistants for the course. After expressing their thoughts, the teaching assistant indicated that one of the more popular ideas that the team had set aside in belief that it would not be possible would actually be doable if the scope was limited properly. This is what led the team to pivot the project idea away from automated plant care to an automated fire extinguisher system. This new project would incorporate some of the same needs and requirements, albeit with a change in sensors for the individual subsytems. 
+At the beginning of the design process, the team focused primarily on automating plant care while users were away. This route was taken due to uncertainty in the feasibility of other project ideas. This led to some dissatisfaction in the team that the project would be something to be proud of, and so the team consulted with one of the teaching assistants for the course. After expressing their thoughts, the teaching assistant indicated that one of the more popular ideas that the team had set aside in the belief that it would not be possible would actually be doable if the scope was limited properly. This is what led the team to pivot the project idea away from automated plant care to an automated fire extinguisher system. This new project would incorporate some of the same needs and requirements, albeit with a change in sensors for the individual subsystems. 
 
 # Block Diagram
-Prior to component selection, a block diagram was contsructed to get a general idea of how each component would need to connect to each other to function. This also informed the team on how many pins might be required on the microcontroller, as well as potential power requirements for each component. Each team member took charge of a part of the subsytem, with the member being responsible for the microcontroller also taking on the power subsystem.
+Prior to component selection, a block diagram was constructed to get a general idea of how each component would need to connect to each other to function. This also informed the team on how many pins might be required on the microcontroller, as well as potential power requirements for each component. Each team member took charge of a part of the subsystem, with the member being responsible for the microcontroller and also taking on the power subsystem.
 
 Andrew Headley: Microcontroller
 </p>
@@ -338,7 +338,7 @@ $11.90
 
 
 Rationale:
-This motor was selected primarily for its higher torque output. It is one of the more expensive options and requires a separate 12V power rail, however the torque was of higher priority.
+This motor was selected primarily for its higher torque output. It is one of the more expensive options and requires a separate 12V power rail, however, the torque was of higher priority.
 
 ## Motor Driver
 IFX9201SGAUMA1
@@ -356,7 +356,7 @@ $4.00
 | Higher Supply Voltage        |                            |
 
 Rationale:
-This motor driver was selected for its compatibility with the chosen motor. It is also more expensive than other options found, but the compatibility was of greater import.
+This motor driver was selected for its compatibility with the chosen motor. It is also more expensive than other options found, but the compatibility was of greater importance.
 
 ## Switching Voltage Regulator
 LM25085QMYX/NOPB
@@ -392,7 +392,7 @@ $1.20
 | Includes Datasheet       |                            |
 
 Rationale: 
-This sensor was selected due to its smaller number of pins for an easier soldering experience, the communication via I2C, and wide operating temperature range. It was also less expensive than other options.
+This sensor was selected due to its smaller number of pins for an easier soldering experience, the communication via I2C, and the wide operating temperature range. It was also less expensive than other options.
 
 ## Heat Sensor
 ZTP-148SRC1
@@ -411,7 +411,7 @@ $1.97
 | Long distance         
 
 Rationale:
-This heat sensor was selected for its range of operating temperatures and ability to detect changes in heat at longer distances. This would assist in getting better direction figuring when detecting a fire.
+This heat sensor was selected for its range of operating temperatures and ability to detect changes in heat at longer distances. This would assist in getting a better direction when detecting a fire.
 
 ## Battery
 EN22
@@ -431,16 +431,16 @@ Rationale:
 This battery was selected with the input voltage requirements for the voltage regulator in mind. It can provide an appropriate voltage level for the regulator to step down to 3.3V.
 
 # Microcontroller Selection
-For the choice of mircocontrollers, the team identified three potential candidates: the PIC18F14Q40, the PIC16F18855, and the PIC24FJ32GP202. Then the chips were compared to each other to see which would be the best option based on the project requirements, primarily power requirements, number of SPI, I2C, and UART pins, and overall number of pins. With these criteria, the PIC24FJ32GP202 chip was selected. 
+For the choice of microcontrollers, the team identified three potential candidates: the PIC18F14Q40, the PIC16F18855, and the PIC24FJ32GP202. Then the chips were compared to each other to see which would be the best option based on the project requirements, primarily power requirements, number of SPI, I2C, and UART pins, and overall number of pins. With these criteria, the PIC24FJ32GP202 chip was selected. 
 
 # Hardware Proposal
-With the selected microcontroller and components, the team put together a wiring schematic for each subsystem, taking into account any supplementary circuitry needed. The microcontroller required a switching voltage regulator that could take a 9V source and output a regulated 3.3V. This would also supply power to the subsystems. With the light and heat sensors, the team believes that is enough to determine the location of a simulated fire, as well as the motor being capable to rotate a simple actuator to aim a fire extinguisher towards that fire. The following image is the current circuit schematic of each subsystem.
+With the selected microcontroller and components, the team put together a wiring schematic for each subsystem, taking into account any supplementary circuitry needed. The microcontroller required a switching voltage regulator that could take a 9V source and output a regulated 3.3V. This would also supply power to the subsystems. With the light and heat sensors, the team believes that is enough to determine the location of a simulated fire, as well as the motor being capable of rotating a simple actuator to aim a fire extinguisher towards that fire. The following image is the current circuit schematic of each subsystem.
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/c47b7918-99d1-4399-a098-f9fec08382e0)
 
 
 # Software Proposal
-The flow through the software code needed to be developed once the components were selected. To do this, the team identified the different coding requirements for the sensors and the microcontroller. The sensors require I2C for communicating with the microcontroller, and the motor driver requires SPI. When the system powers on, the system needs to initialize with the appropriate set up for the two different types of serial communication. Once the communication methods have been initialized, the sensors will be be enabled, then the motor, then the ESP32 module. At this point, the system will start reading the output of the sensors while comparing those outputs to baseline values in order to determine if the prototype is facing a fire or not. If the sensor values are determined to indicate a fire, the system state will be changed, and the motor will be told to move whilst still reading the sensor outputs. Once the greatest value output by the sensors has been reached, the motor will be told to stop. If the sensors continue to indicate a fire, the motor will stay at that position; if the sensors indicate the fire has been extinguished, the motor will move back to it's origin position and the state of the system will be changed back to monitoring for a fire. Each time there is a system state change, the system will output an update via the ESP32 module. The following figures represent the logic flow of the system:
+The flow through the software code needed to be developed once the components were selected. To do this, the team identified the different coding requirements for the sensors and the microcontroller. The sensors require I2C for communicating with the microcontroller, and the motor driver requires SPI. When the system powers on, the system needs to initialize with the appropriate setup for the two different types of serial communication. Once the communication methods have been initialized, the sensors will be enabled, then the motor, and then the ESP32 module. At this point, the system will start reading the output of the sensors while comparing those outputs to baseline values in order to determine if the prototype is facing a fire or not. If the sensor values are determined to indicate a fire, the system state will be changed, and the motor will be told to move whilst still reading the sensor outputs. Once the greatest value output by the sensors has been reached, the motor will be told to stop. If the sensors continue to indicate a fire, the motor will stay at that position; if the sensors indicate the fire has been extinguished, the motor will move back to its origin position and the state of the system will be changed back to monitoring for a fire. Each time there is a system state change, the system will output an update via the ESP32 module. The following figures represent the logic flow of the system:
 
 ## Main Control Loop
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/e8977080-a0ea-4625-8662-15950e93150b)
@@ -478,10 +478,10 @@ The flow through the software code needed to be developed once the components we
 We have a discord server set up for daily communication. If there isn't a response or we need a rapid response we would text or call them. If they are completely unresponsive we would email them as a last resort before bringing it to the professor.
 
 ## Meeting Schedule
-When possible, class time will be used as the primary weekly meetings. Subsequent meetings and their modality will be determined by necessity, however the following times have been identified as when the majority of team members will be available:
-- Tuesday - 1pm-6pm
-- Wednesday - 2pm-5pm
-- Thursday - 2pm-6pm
+When possible, class time will be used as the primary weekly meetings. Subsequent meetings and their modality will be determined by necessity, however, the following times have been identified as when the majority of team members will be available:
+- Tuesday - 1 pm-6 pm
+- Wednesday - 2 pm-5 pm
+- Thursday - 2 pm-6 pm
   
 ## Meeting Coordination
 - We will discuss during class whether or not we need to meet in person or through Discord for the week. 
