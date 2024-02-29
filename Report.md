@@ -449,9 +449,6 @@ For the choice of microcontrollers, the team identified three potential candidat
 | In-System Programming Capability and Type | No     | Yes, Serial | Yes, Serial |
 | Works with MPLAB® X Integrated Development Environment (IDE)? | Yes | Yes | Yes |
 | Works with Microchip Code Configurator? | Yes | Yes (?) | Yes |
-
-|                           | PIC Option 1 | PIC Option 2 | PIC Option 3 |
-|---------------------------|--------------|--------------|--------------|
 | How many GPIO Pins?       | 6+           | 18           | 25           |
 | Built-in ADC? How many?   | 1+           | 1            | 24           |
 | Built-in Hardware PWM?    | 1+           | 3            | 2            |
