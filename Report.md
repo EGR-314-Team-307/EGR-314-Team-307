@@ -314,7 +314,7 @@ For the choice of microcontrollers, the team identified three potential candidat
 
 ### Final Microcontroller Choice: PIC24FJ32GP202
 
-# [Hardware Proposal](./HardwareProposal.md)
+# [Hardware Implementation](./HardwareProposal.md)
 With the selected microcontroller and components, the team put together a wiring schematic for each subsystem, taking into account any supplementary circuitry needed. The microcontroller required a switching voltage regulator that could take a 9V source and output a regulated 3.3V. This would also supply power to the subsystems. With the light and heat sensors, the team believes that is enough to determine the location of a simulated fire, as well as the motor being capable of rotating a simple actuator to aim a fire extinguisher towards that fire. The following image is the current circuit schematic of each subsystem.
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/e34259bc-8e4a-4108-84ea-c0389042b92e)
@@ -326,7 +326,7 @@ With the selected microcontroller and components, the team put together a wiring
 
 The green portion of the PCB is the top view of the board, and the yellow portion shows the bottom. If this project were to continue, we would develop a new PCB that fixes the multiple problems we faced while integrating the different subsystems. We would first choose larger components to make soldering faster and less difficult. Another change we would implement would be to change the voltage regulator circuit to add a fuse and a switch to easily power on/off the device as well as add extra safety precautions. The team would also change the power supply from a battery to a wall plugin. This would enhance the device's autonomy by removing the need to replace or recharge the battery.
 
-# [Software Proposal](./SoftwareProposal.md)
+# [Software Implementation](./SoftwareProposal.md)
 The flow through the software code needed to be developed once the components were selected. To do this, the team identified the different coding requirements for the sensors and the microcontroller. The sensors require I2C for communicating with the microcontroller, and the motor driver requires SPI. When the system powers on, the system needs to initialize with the appropriate setup for the two different types of serial communication. Once the communication methods have been initialized, the sensors will be enabled, then the motor, and then the ESP32 module. At this point, the system will start reading the output of the sensors while comparing those outputs to baseline values to determine if the prototype is facing a fire or not. If the sensor values are determined to indicate a fire, the system state will be changed, and the motor will be told to move whilst still reading the sensor outputs. Once the greatest value output by the sensors has been reached, the motor will be told to stop. If the sensors continue to indicate a fire, the motor will stay at that position; if the sensors indicate the fire has been extinguished, the motor will move back to its original position and the state of the system will be changed back to monitoring for a fire. Each time there is a system state change, the system will output an update via the ESP32 module. The following figures represent the logic flow of the system:
 
 ## Main Control Loop
@@ -354,12 +354,24 @@ The flow through the software code needed to be developed once the components we
 
 1. Do not focus on the irrelevant parts of the project without completing the main parts of the project. This can set the team off track and lead to missing important deadlines.
 2. Communication within the team is essential. Our team struggled with integrating the subsystems and better communication would have prevented the problems.
-3. Expect and prepare for things to go wrong. There were multiple unexpected problems that occurred to our team that we had to resolve. As previously mentioned, communication is important to have within the team and is needed to solve problems as a team.
+3. Expect and prepare for things to go wrong. Multiple unexpected problems occurred to our team that we had to resolve. As previously mentioned, communication is important to have within the team and is needed to solve problems as a team.
+4. One of the design changes we would make is to float the sensors off of the PCB rather than soldering them directly to the PCB. This would make more sense from a design standpoint as well as allowing the sensors to gather accurate data.
+5. Another change to our final product would be to add a servo to the nozzle of the fire extinguisher. This would allow more control of the fire extinguisher as well as increase the range of the sentry.
+6. When submitting assignments, it is important to submit them in the proper format so that they can be graded and not have any penalties.
+7. Building off of communication, we could have split up tasks more efficiently. This would have allowed each team member to contribute and have everyone have an equal workload.
+8. The team could have planned on working on assignments together rather than working on them independently. This would allow for the work to be completed much faster as well as each team member being on the same page.
+9. We learned that working on a project that we were interested in made us more efficient in our work. Due to our interest, we put in more work and were able to do extra work that was not required.
+10. When we integrated the subsystems, it would have been an easier task if we commented our code so that the other teammates could understand it.
 
 # Recommendations for Future Students
 
 1. When updating the design of the project, make sure to update the Block Diagram and any other outdated items. Not only will this keep the team’s project updated, but it will also prevent and grade penalties due to forgetting to update it.
-2. 
+2. As previously mentioned, this is a fast-paced class. There will be homework, in-class checkoffs, and team assignments due every week. It is essential to understand that there will be a significant amount of time spent working on assignments outside of class. This is not a class that you can easily get through.
+3. This class gets to the work almost immediately. It is important to be prepared for the skills learned from the 304 class.
+4. It is important to use the teaching assistants to your advantage. They are there to help you and if you are stuck, they can help guide you with what you are stuck on.
+5. Try to work on assignments before the deadline. If there is a chance to get ahead in the class, it should be taken. This will help set you and your team up for success.
+6. Get your subsystem working as fast as possible. This will allow you to have as much time to improve and tinkering your system.
+7. It is okay if you fail the first time. It is important to not get discouraged if something does not work the first time, but instead using it as a learning opportunity.
 
 
 # Appendix A: Team Organization Charter
