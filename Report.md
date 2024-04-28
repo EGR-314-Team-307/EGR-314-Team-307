@@ -314,7 +314,11 @@ With the selected microcontroller and components, the team put together a wiring
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/118413228/2244e604-ca96-48bb-a750-63f8ac6cff55)
 
+## PCB Design
 
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/9418479c-6a31-4af5-afc5-ebf5e40b4d82)
+
+The green portion of the PCB is the top view of the board, and the yellow portion shows the bottom. If this project were to continue, we would develop a new PCB that fixes the multiple problems we faced while integrating the different subsystems. We would first choose larger components to make soldering faster and less difficult. Another change we would implement would be to change the voltage regulator circuit to add a fuse and a switch to easily power on/off the device as well as add extra safety precautions. The team would also change the power supply from a battery to a wall plugin. This would enhance the device's autonomy by removing the need to replace or recharge the battery.
 
 # [Software Proposal](./SoftwareProposal.md)
 The flow through the software code needed to be developed once the components were selected. To do this, the team identified the different coding requirements for the sensors and the microcontroller. The sensors require I2C for communicating with the microcontroller, and the motor driver requires SPI. When the system powers on, the system needs to initialize with the appropriate setup for the two different types of serial communication. Once the communication methods have been initialized, the sensors will be enabled, then the motor, and then the ESP32 module. At this point, the system will start reading the output of the sensors while comparing those outputs to baseline values in order to determine if the prototype is facing a fire or not. If the sensor values are determined to indicate a fire, the system state will be changed, and the motor will be told to move whilst still reading the sensor outputs. Once the greatest value output by the sensors has been reached, the motor will be told to stop. If the sensors continue to indicate a fire, the motor will stay at that position; if the sensors indicate the fire has been extinguished, the motor will move back to its origin position and the state of the system will be changed back to monitoring for a fire. Each time there is a system state change, the system will output an update via the ESP32 module. The following figures represent the logic flow of the system:
@@ -336,6 +340,19 @@ The flow through the software code needed to be developed once the components we
 
 ## Motor System
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/14ac5112-8339-4841-be09-6d4fa16d9104)
+
+# System Verification Table
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/a5b6ba05-7569-430c-86ef-e3e6c060e5ed)
+
+# Lessons Learned
+
+1. Do not focus on the irrelevant parts of the project without completing the main parts of the project. This can set the team off track and lead to missing important deadlines.
+2. Communication within the team is essential. Our team struggled with integrating the subsystems and better communication would have prevented the problems.
+3. Expect and prepare for things to go wrong. There were multiple unexpected problems that occurred to our team that we had to resolve. As previously mentioned, communication is important to have within the team and is needed to solve problems as a team.
+
+# Recommendations for Future Students
+
+1. When updating the design of the project, make sure to update the Block Diagram and any other outdated items. Not only will this keep the team’s project updated, but it will also prevent and grade penalties due to forgetting to update it.
 
 
 # Appendix A: Team Organization Charter
