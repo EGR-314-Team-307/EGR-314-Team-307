@@ -51,7 +51,7 @@ To create a usable, viable product that is relatively unique and allows a measur
 
 # [User Needs, Benchmarking, and Requirements](./UserNeeds.md)
 
-To see our VOC Benchmarking, please see Appendix B.
+To see our VOC Benchmarking and Use Cases, please see Appendix B.
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/9c8297be-1a2a-4fe5-823b-5099b98e007f)
 **Figure 2: Jamboard of User Needs**
@@ -68,14 +68,6 @@ Once each product's reviews had be evaluated for user needs, the team organized 
 | Durability    | The product needs to be durable.                          | ★★★          |
 | Safety        | The product needs to safely interact.                     | ★★★          |
 | Accessibility | The product needs to be available.                        | ★★★          |
-
-## Use Cases
-
-### User Story #1: Sarah
-Sarah, a busy professional, relies on a smart plant waterer to keep her indoor plants thriving amidst her hectic schedule. With customized watering schedules and real-time monitoring, the device ensures each plant receives the precise amount of hydration it needs, sparing Sarah the worry of wilted foliage. Through remote control via a mobile app, Sarah can nurture her indoor garden effortlessly, enjoying the lush greenery that enriches her living space.
-
-### User Story #2: John
-In a suburban garden, John installs an automatic plant cover to safeguard his delicate flowers from frost during chilly nights. As temperatures drop, the sensor-equipped cover detects the cold and swiftly unfurls, cocooning the plants in warmth until the weather improves. John can rest easy knowing his garden is shielded from harm, allowing his flowers to bloom undisturbed even in the coldest of nights.
 
 ## Aspects
 The categories identified in Table 13 and their associated importances then guided the development of requirements necessary to meet user needs. These aspects will be used as litmus tests during the course of the development of the prototype. As each subsytem is developed, it will be checked against these aspects to verify if the subsystem satisfies them or not. In the event that the subsystem does not staisfy the aspect, it will be reworked until it does. Further, when each subsystem is integrated into the final project, an overall verification test will be performed, to see if the final prototype meets or exceeds the requirements. If the integrated system fails, then it will be reworked until it succeeds.
@@ -402,7 +394,7 @@ Moksh Goel
 
 Andrew Headley
 
-# Appendix B: Voice of Customer
+# Appendix B: Voice of Customer, Use Cases
 ## VOC Benchmarking
 The first couple of searches, as well as the fourth and fifth searches, focused on existing monitoring systems that used a variety of different sensors. The third search focused on the automation aspect, where consumers could set the product to run in their absence The sixth search focused on an automated fire suppression system.
 ## Search 1: “plant moisture reader”
@@ -560,6 +552,15 @@ The first couple of searches, as well as the fourth and fifth searches, focused 
 | Voice of the Customer | Related Customer Need            |
 |-----------------------|---------------------------------|
 | “I threw it in my car once it came in and a week later, my son got a hold of a lighter and started a flame that caught our backseat while driving. I pulled over immediately and pulled the extinguisher out, but it didn’t work at all.” | The product should be easy to operate (Latent). |
+
+## Use Cases
+
+### User Story #1: Sarah
+Sarah, a busy professional, relies on a smart plant waterer to keep her indoor plants thriving amidst her hectic schedule. With customized watering schedules and real-time monitoring, the device ensures each plant receives the precise amount of hydration it needs, sparing Sarah the worry of wilted foliage. Through remote control via a mobile app, Sarah can nurture her indoor garden effortlessly, enjoying the lush greenery that enriches her living space.
+
+### User Story #2: John
+In a suburban garden, John installs an automatic plant cover to safeguard his delicate flowers from frost during chilly nights. As temperatures drop, the sensor-equipped cover detects the cold and swiftly unfurls, cocooning the plants in warmth until the weather improves. John can rest easy knowing his garden is shielded from harm, allowing his flowers to bloom undisturbed even in the coldest of nights.
+
 # Appendix C: Bill of Materials
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/94e54736-0637-490f-be47-feb6c223853f)
 
