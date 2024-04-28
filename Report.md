@@ -171,8 +171,6 @@ Prior to component selection, a block diagram was constructed to get a general i
 
 # [Component Selection](./ComponentSelection.md)
 
-### See Appendix C for the power budget
-
 ## Motor
 FIT0492-B
 
@@ -282,6 +280,12 @@ $2.61
 
 Rationale:
 This battery was selected with the input voltage requirements for the voltage regulator in mind. It can provide an appropriate voltage level for the regulator to step down to 3.3V.
+
+## Power Budget
+
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/355c9a0d-c717-4289-8ec7-9b39aad9ac63)
+
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/b1f1ee47-65c0-4cb0-95ea-7c6f42cefefe)
 
 # [Microcontroller Selection](./MicrocontrollerSelection.md)
 For the choice of microcontrollers, the team identified three potential candidates: the PIC18F14Q40, the PIC16F18855, and the PIC24FJ32GP202. Then the chips were compared to each other to see which would be the best option based on the project requirements, primarily power requirements, number of SPI, I2C, and UART pins, and overall number of pins. With these criteria, the PIC24FJ32GP202 chip was selected. 
@@ -590,10 +594,3 @@ In a suburban garden, John installs an automatic plant cover to safeguard his de
 
 # Appendix C: Bill of Materials
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/94e54736-0637-490f-be47-feb6c223853f)
-
-# Appendix D: Power Budget
-![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/355c9a0d-c717-4289-8ec7-9b39aad9ac63)
-
-![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/b1f1ee47-65c0-4cb0-95ea-7c6f42cefefe)
-
-
