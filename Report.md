@@ -143,12 +143,12 @@ This automated fire extinguisher operates by utilizing a light sensor and temper
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/baa90fdc-6884-4ba5-b803-2480c5c28e21)
 
+
+
+At the beginning of the design process, the team focused primarily on automating plant care while users were away. This route was taken due to uncertainty in the feasibility of other project ideas. This led to some dissatisfaction in the team that the project would be something to be proud of, so the team consulted with one of the teaching assistants for the course. After expressing their thoughts, the teaching assistant indicated that one of the more popular ideas that the team had set aside in the belief that it would not be possible would actually be doable if the scope was limited properly. This is what led the team to pivot the project idea away from automated plant care to an automated fire extinguisher system. This new project would incorporate some of the same needs and requirements, albeit with a change in sensors for the individual subsystems. 
 *Final Design*
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/1cbb3f97-01c4-4a2f-80af-ccc526fcaf0e)
-
-At the beginning of the design process, the team focused primarily on automating plant care while users were away. This route was taken due to uncertainty in the feasibility of other project ideas. This led to some dissatisfaction in the team that the project would be something to be proud of, and so the team consulted with one of the teaching assistants for the course. After expressing their thoughts, the teaching assistant indicated that one of the more popular ideas that the team had set aside in the belief that it would not be possible would actually be doable if the scope was limited properly. This is what led the team to pivot the project idea away from automated plant care to an automated fire extinguisher system. This new project would incorporate some of the same needs and requirements, albeit with a change in sensors for the individual subsystems. 
-
 # [Block Diagram](./BlockDiagram.md)
 
 Prior to component selection, a block diagram was constructed to get a general idea of how each component would need to connect to each other to function. This also informed the team on how many pins might be required on the microcontroller, as well as potential power requirements for each component. Each team member took charge of a part of the subsystem, with the member being responsible for the microcontroller and also taking on the power subsystem.
