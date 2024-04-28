@@ -53,7 +53,9 @@ To create a usable, viable product that is relatively unique and allows a measur
 
 To see our VOC Benchmarking, please see Appendix B.
 
-## Organize: Figure 2: Jamboard of User Needs
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/9c8297be-1a2a-4fe5-823b-5099b98e007f)
+**Figure 2: Jamboard of User Needs**
+
 Once each product's reviews had be evaluated for user needs, the team organized those needs into groupings of similarity. Six themes were then identified and labeled as categories, as seen in Table 11. Then taking into account the product reviews, the team weighed these categories by importance. 
 
 **Table 13: Categorized and Ranked User Needs**
