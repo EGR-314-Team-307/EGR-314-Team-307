@@ -139,7 +139,10 @@ The Water Sensor Management Network is an advanced and comprehensive system desi
 This automated fire extinguisher operates by utilizing a light sensor and temperature detector to identify fires swiftly. Once a fire is detected, it activates a motor that moves the extinguisher into position and triggers its operation, swiftly suppressing the flames and mitigating potential damage.
 
 # Selected Design
+*Concept Design*
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/baa90fdc-6884-4ba5-b803-2480c5c28e21)
+*Final Design*
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/1cbb3f97-01c4-4a2f-80af-ccc526fcaf0e)
 
 At the beginning of the design process, the team focused primarily on automating plant care while users were away. This route was taken due to uncertainty in the feasibility of other project ideas. This led to some dissatisfaction in the team that the project would be something to be proud of, and so the team consulted with one of the teaching assistants for the course. After expressing their thoughts, the teaching assistant indicated that one of the more popular ideas that the team had set aside in the belief that it would not be possible would actually be doable if the scope was limited properly. This is what led the team to pivot the project idea away from automated plant care to an automated fire extinguisher system. This new project would incorporate some of the same needs and requirements, albeit with a change in sensors for the individual subsystems. 
 
