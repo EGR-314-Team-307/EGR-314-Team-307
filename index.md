@@ -20,7 +20,7 @@
 
 ##### Click the below link to see the full report:
 
-### [Report](./Report.md)
+### [Checkpoint 3 Report](./Report.md)
 
 
 ##### Click the below links to see the individual sections of the report:
