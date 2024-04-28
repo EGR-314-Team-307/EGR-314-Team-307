@@ -110,3 +110,9 @@ $2.61
 
 Rationale:
 This battery was selected with the input voltage requirements for the voltage regulator in mind. It can provide an appropriate voltage level for the regulator to step down to 3.3V.
+
+## Power Budget
+
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/355c9a0d-c717-4289-8ec7-9b39aad9ac63)
+
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/b1f1ee47-65c0-4cb0-95ea-7c6f42cefefe)
