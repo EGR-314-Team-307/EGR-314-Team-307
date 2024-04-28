@@ -172,6 +172,8 @@ Prior to component selection, a block diagram was constructed to get a general i
 
 # [Component Selection](./ComponentSelection.md)
 
+Please see Appendix C for the Bill of Materials.
+
 ## Motor
 FIT0492-B
 
