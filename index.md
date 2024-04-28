@@ -2,7 +2,7 @@
 # Fire Extinguisher Sentry
 ---
 
-![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/baa90fdc-6884-4ba5-b803-2480c5c28e21)
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/1cbb3f97-01c4-4a2f-80af-ccc526fcaf0e)
 
 ## EGR 314 Team 307
  Spring 2024
