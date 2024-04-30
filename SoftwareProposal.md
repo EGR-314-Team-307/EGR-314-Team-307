@@ -18,3 +18,7 @@ The flow through the software code needed to be developed once the components we
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/101139470/14ac5112-8339-4841-be09-6d4fa16d9104)
 # System Verification Table
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/a5b6ba05-7569-430c-86ef-e3e6c060e5ed)
+# Project Code
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/147283789/5b128129-450a-44db-8d67-d008b4f0bae8)
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/147283789/0fcf3438-9703-4b06-9b18-b589faea62fd)
+This code defines specific addresses for pressure and temperature sensors. It initializes the UART, I2C, and SPI communication interfaces. Within the main loop, it continuously reads data from a temperature sensor via I2C sends it over UART, and then enables the motor driver based on the received values. Additionally, it exchanges data with an SPI device, specifically sending and receiving bytes in a loop and printing the results. The main loop runs indefinitely, continuously reading sensor data and sending it over UART while exchanging SPI data.
