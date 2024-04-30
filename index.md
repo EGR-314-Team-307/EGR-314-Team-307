@@ -1,5 +1,5 @@
 ---
-# Fire Extinguisher Sentry
+# Fire Extinguisher Sentry System
 ---
 
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/1cbb3f97-01c4-4a2f-80af-ccc526fcaf0e)
