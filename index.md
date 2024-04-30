@@ -37,9 +37,9 @@
 
 [Microcontroller Selection](./MicrocontrollerSelection.md)
 
-[Hardware Proposal](./HardwareProposal.md)
+[Hardware Implementation](./HardwareProposal.md)
 
-[Software Proposal](./SoftwareProposal.md)
+[Software Implementation](./SoftwareProposal.md)
 
 
 #### Checkpoint 1 Presentation:
