@@ -352,6 +352,12 @@ The flow through the software code needed to be developed once the components we
 # System Verification Table
 ![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/156955314/a5b6ba05-7569-430c-86ef-e3e6c060e5ed)
 
+# Project Code
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/147283789/5b128129-450a-44db-8d67-d008b4f0bae8)
+![image](https://github.com/EGR-314-Team-307/EGR-314-Team-307/assets/147283789/0fcf3438-9703-4b06-9b18-b589faea62fd)
+This code defines specific addresses for pressure and temperature sensors. It initializes the UART, I2C, and SPI communication interfaces. Within the main loop, it continuously reads data from a temperature sensor via I2C and sends it over UART, and then enables the motor driver based on the received values. Additionally, it exchanges data with an SPI device, specifically sending and receiving bytes in a loop and printing the results. The main loop runs indefinitely, continuously reading sensor data and sending it over UART while exchanging SPI data.
+
+
 # Lessons Learned
 
 1. Do not focus on the irrelevant parts of the project without completing the main parts of the project. This can set the team off track and lead to missing important deadlines.
