@@ -47,7 +47,7 @@ When our team formed, we joined together to decide what the goals of this projec
 
 After brainstorming our shared expectations for the project, we summarized our collective thoughts into a product mission statement that encapsulates what we hope to achieve with this venture:
 
-To create a usable, viable product that is relatively unique and allows a measure of automation to be brought to the crop-growing process. As well as providing an appropriate level of challenge for each team member, and meeting the EGR 314 course requirements. 
+To create a usable, viable product that is relatively unique and allows a measure of automation to be brought to fire suppression systems, as well as providing an appropriate level of challenge for each team member, and meeting the EGR 314 course requirements. 
 
 
 # [User Needs, Benchmarking, and Requirements](./UserNeeds.md)
